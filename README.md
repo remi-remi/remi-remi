@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Human(forename remi, surname verite){} ;
 - 👀 I’m interested in "*" ;
 - 🌱 I’m currently learning SQL,JAVA,C#,pyton,php,CSS,HTML ;
-- 💞️ I’m looking to collaborate with my friend dans for very small project /*i am a beginer*/ ;
+- 💞️ I’m looking to collaborate with my friend in very small project /// i am still a beginer ;
 - 📫 How to reach me you can send me Email "remiveritepro@gmail.com" ;
 
 <!---
