@@ -1,1 +1,1 @@
-life to understand
+live to understand
